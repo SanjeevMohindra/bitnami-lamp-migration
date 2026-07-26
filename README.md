@@ -1,4 +1,4 @@
-# bitnami-migrate
+# bitnami-lamp-migrate
 
 Move a site off a **Bitnami LAMP or WordPress stack** onto a plain Apache + PHP +
 MariaDB server — at full fidelity, and verified.
